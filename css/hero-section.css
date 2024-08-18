@@ -2,8 +2,7 @@
   display: flex;
   align-items: center;
   justify-content: space-between;
-  padding: 10px;
-  gap: 100px;
+  margin-top: 50px;
 }
 
 .title-hero {
@@ -12,6 +11,7 @@
   font-weight: 800;
   line-height: 90.22px;
   text-align: left;
+  padding-bottom: 50px;
 }
 
 .title-hero span {
@@ -19,15 +19,16 @@
 }
 
 .subtitle-hero {
-  font-family: inter;
+  font-family: Inter;
   font-size: 26px;
-  font-weight: 400;
-  line-height: 36.4px;
+  font-weight: 500;
+  line-height: 44.33px;
   text-align: left;
+  color: #4a4a4a;
 }
 
 .hero-img {
-  width: 750.5px;
+  width: 800px;
   height: 797.32px;
   top: 143.5px;
   left: 869.5px;
@@ -50,14 +51,15 @@
   color: white;
   font-size: 26px;
   font-family: inter;
+  margin: 0;
 }
 
 .hero-btns-seciton {
   display: flex;
-  gap: 20px;
+  gap: 30px;
   text-align: center;
   align-items: center;
-  margin-top: 30px;
+  margin-top: 50px;
 }
 
 .play-btn {
