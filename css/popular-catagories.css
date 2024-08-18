@@ -1,0 +1,74 @@
+.popular-catagories {
+  text-align: center;
+  margin: 0 auto;
+  margin-top: 200px;
+  margin-bottom: 200px;
+}
+
+.catagories {
+  flex-wrap: wrap;
+  gap: 30px;
+  justify-content: center;
+  align-items: center;
+}
+
+.catagories-title {
+  font-size: 60px;
+  font-weight: 700;
+  font-family: Inter;
+  font-size: 60px;
+  font-weight: 700;
+  line-height: 72.61px;
+  text-align: center;
+  margin-bottom: 50px;
+}
+
+.catagories-subtitle {
+  font-family: inter;
+  text-transform: uppercase;
+  font-family: Inter;
+  font-size: 20px;
+  font-weight: 700;
+  line-height: 24.2px;
+  letter-spacing: 0.175em;
+  color: #ff6868;
+  margin-bottom: 20px;
+}
+
+.card-category {
+  width: 326px;
+  height: 326px;
+  top: 1406px;
+  left: 155px;
+  gap: 0px;
+  border-radius: 40px;
+  opacity: 0px;
+  box-shadow: 2px 10px 30px 0px #0000001a;
+  padding: 50px;
+}
+
+.card-img {
+  width: 153px;
+  height: 153px;
+  top: 1445px;
+  left: 242px;
+  gap: 0px;
+  opacity: 0px;
+  margin-bottom: 20px;
+}
+
+.card-category-title {
+  font-family: Inter;
+  font-size: 30px;
+  font-weight: 600;
+  line-height: 36.31px;
+  text-align: center;
+}
+
+.card-category-subtitle {
+  font-family: Inter;
+  font-size: 22px;
+  font-weight: 500;
+  line-height: 26.63px;
+  text-align: center;
+}
