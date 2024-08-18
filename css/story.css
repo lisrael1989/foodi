@@ -1,0 +1,95 @@
+.our-story {
+  display: flex;
+  justify-content: space-between;
+  margin-top: 100px;
+  margin-bottom: 200px;
+}
+
+.story-description-section {
+  width: 40%;
+}
+
+.catagories-title-story {
+  font-size: 60px;
+  font-weight: 700;
+  font-family: Inter;
+  font-size: 60px;
+  font-weight: 700;
+  line-height: 72.61px;
+  margin-bottom: 50px;
+}
+
+.story-description {
+  font-family: Inter;
+  font-size: 26px;
+  font-weight: 500;
+  line-height: 41.6px;
+  text-align: left;
+  color: #555555;
+}
+
+.story-explore-btn {
+  font-family: Inter;
+  font-size: 26px;
+  font-weight: 600;
+  line-height: 31.47px;
+  text-align: left;
+  background: #39db4a;
+  color: white;
+  border-radius: 40px;
+  border: none;
+  padding: 20px 70px;
+  gap: 0px;
+  opacity: 0px;
+  margin-top: 30px;
+}
+
+.story-cards {
+  display: flex;
+  width: 50%;
+  flex-wrap: wrap;
+  gap: 30px;
+
+  justify-content: flex-end;
+  margin-right: 50px;
+}
+
+.story-card {
+  width: 277px;
+  height: 297.15px;
+  gap: 0px;
+  border-radius: 30px;
+  opacity: 0px;
+  box-shadow: 7px 12px 43px 0px #00000024;
+  text-align: center;
+  padding: 30px;
+  color: #5fe26c;
+}
+
+.story-card img {
+  width: 64px;
+  height: 64px;
+  top: 3991px;
+  left: 1088px;
+  gap: 0px;
+  opacity: 0px;
+  margin-top: 20px;
+}
+
+.story-card-title {
+  font-family: Inter;
+  font-size: 24px;
+  font-weight: 700;
+  line-height: 29.05px;
+  text-align: center;
+  margin-bottom: 20px;
+}
+
+.story-card-description {
+  font-family: Inter;
+  font-size: 20px;
+  font-weight: 600;
+  line-height: 24.2px;
+  text-align: center;
+  color: #90bd95;
+}
